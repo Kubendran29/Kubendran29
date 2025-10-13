@@ -4,7 +4,7 @@
 - 🌱 Currently deepening my skills in Python, SQL, and building ML models.
 - 💼 Actively working on projects involving EDA, classification models, and dashboarding with Power BI & Streamlit.
 - 💞️ I’m open to collaborating on data science projects, open-source tools, or anything that solves real-world problems using data!
-- 📫 How to reach me:(mailto:kubendran292@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/kubendran-m-450b06295])
+- 📫 How to reach me 📧 [kubendran292@gmail.com](mailto:kubendran292@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/kubendran29/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can spend hours cleaning and visualizing data —
 
