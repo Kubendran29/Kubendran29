@@ -1,15 +1,49 @@
 ### 👋 Hi, I’m @Kubendran29
+##  🚀 AI/ML & Data Science Enthusiast
 
-- 👀 I’m passionate about everything data — data analysis, machine learning, and visualization.
-- 🌱 Currently deepening my skills in Python, SQL, and building ML models.
-- 💼 Actively working on projects involving EDA, classification models, and dashboarding with Power BI & Streamlit.
-- 💞️ I’m open to collaborating on data science projects, open-source tools, or anything that solves real-world problems using data!
-- 📫 How to reach me 📧 [kubendran292@gmail.com](mailto:kubendran292@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/kubendran29/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can spend hours cleaning and visualizing data —
+I’m passionate about building real-world AI solutions using Machine Learning, Deep Learning, Computer Vision, and Data Analytics.
+Currently working as a Data Scientist Intern, where I develop predictive ML models, perform exploratory data analysis, and build research-oriented analytical solutions.
 
+🔥 Technical Skills
+👨‍💻 Programming & Databases
+- Python
+- SQL
 
+🤖 Machine Learning & Deep Learning
+- Scikit-learn
+- TensorFlow (Basics)
+- PyTorch (Basics)
+- YOLOv8
+- OpenCV
 
+📊 Data Analysis & Visualization
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+
+🌐 Deployment & Tools
+- Streamlit
+- Git & GitHub
+- Flask (Basics)
+
+🌱 Currently Learning
+- MongoDB
+- React.js
+- Node.js
+- Express.js
+- Model Development & Optimization
+- Advanced Deep Learning
+- Natural Language Processing (NLP)
+- Real-time AI Application Development
+
+🤝 Open to Collaborate On
+- AI/ML Projects
+- Computer Vision Applications
+- Data Science Research
+- Open Source Contributions
+- Streamlit Dashboard Projects
 <!---
 Kubendran29/Kubendran29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
