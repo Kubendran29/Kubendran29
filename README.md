@@ -44,6 +44,12 @@ Currently working as a Data Scientist Intern, where I develop predictive ML mode
 - Data Science Research
 - Open Source Contributions
 - Streamlit Dashboard Projects
+
+📫 Connect With Me
+
+📧 Email: kubendran292@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/kubendran29/
+💻 GitHub: https://github.com/Kubendran29
 <!---
 Kubendran29/Kubendran29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
